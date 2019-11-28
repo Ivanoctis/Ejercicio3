@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="Tv1">Inserte los datos del alumno</string>
+    <string name="Et1">Nombre(s)</string>
+    <string name="Et2">Apellido Paterno</string>
+    <string name="Et3">Apellido Materno</string>
+    <string name="Et4">No. de cuenta</string>
+    <string name="Rb1">Mujer</string>
+    <string name="Rb2">Hombre</string>
+    <string name="B1">Agregar</string>
+    <string name="B2">Ver lista de alumnos</string>
+    <string name="Tv2">Lista de alumnos</string>
+    <string name="Tvl">Alumno</string>
+    <string name="todo">TODO</string>
+    <string name="B3">Regresar</string>
+    <string name="Alarma1">Favor de agregar alumnos</string>
+    <string name="Todofine1">Elemento </string>
+    <string name="Todofine2"> agregado con exito</string>
+    <string name="Alarma2">Elija uno de los generos porfavor</string>
+    <string name="Alarma3">Digite el numero de cuenta porfavor</string>
+    <string name="Alarma4">Problema con el Apellido Materno</string>
+    <string name="Alarma5">Problema con el Apellido Paterno</string>
+    <string name="Alarma6">Escriba el nombre porfavor</string>
+    <string name="Todo_fine21">El numero de cuenta es: </string>
+</resources>

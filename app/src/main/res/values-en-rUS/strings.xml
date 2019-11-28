@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example3</string>
+    <string name="Tv1">Type the student data</string>
+    <string name="Et1">Name(s)</string>
+    <string name="Et2">Fathers Last name</string>
+    <string name="Et3">Mothers Last name</string>
+    <string name="Et4">Account number</string>
+    <string name="Rb1">Femmale</string>
+    <string name="Rb2">Male</string>
+    <string name="B1">Add</string>
+    <string name="B2">View students list</string>
+    <string name="Tv2">Students list</string>
+    <string name="Tvl">Student</string>
+    <string name="todo">ALL</string>
+    <string name="B3">Get Back</string>
+    <string name="Alarma1">Add some students first please!</string>
+    <string name="Todofine1">Element </string>
+    <string name="Todofine2"> added successfully </string>
+    <string name="Alarma2">Choose one gender</string>
+    <string name="Alarma3">Write the account number please</string>
+    <string name="Alarma4">Write the Mothers last name</string>
+    <string name="Alarma5">Write the Fathers last name</string>
+    <string name="Alarma6">Write the name please</string>
+    <string name="Todo_fine21">The account number is: </string>
+</resources>

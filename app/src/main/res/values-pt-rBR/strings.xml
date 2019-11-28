@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercício3</string>
+    <string name="Tv1">Inserir dados do aluno</string>
+    <string name="Et1">Nome(s)</string>
+    <string name="Et2">Sobrenome do pai</string>
+    <string name="Et3">Sobrenome da mae</string>
+    <string name="Et4">Número de conta</string>
+    <string name="Rb1">Mulher</string>
+    <string name="Rb2">Homem</string>
+    <string name="B1">Adicionar</string>
+    <string name="B2">Veja a lista de alunos</string>
+    <string name="Tv2">Lista de alunos</string>
+    <string name="Tvl">Aluno</string>
+    <string name="todo">TUDO</string>
+    <string name="B3">Voltar</string>
+    <string name="Alarma1">Adicione umos alunos primeiro!</string>
+    <string name="Todofine1">Item</string>
+    <string name="Todofine2"> adicionado com sucesso</string>
+    <string name="Alarma2">Escolha um género</string>
+    <string name="Alarma3">Escreva o número de conta</string>
+    <string name="Alarma4">Escreba o sobrenome do pai</string>
+    <string name="Alarma5">Escreva o sobrenombre da mai</string>
+    <string name="Alarma6">Escreva o nome</string>
+    <string name="Todo_fine21">O número de conta e: </string>
+</resources>
